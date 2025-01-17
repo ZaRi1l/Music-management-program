@@ -1,0 +1,402 @@
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 거래 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form4.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form3.resources
+C:\Users\dlxor\Desktop\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form5.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form4.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form3.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form5.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form6.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form7.resources
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\dlxor\Desktop\데베프\팀플\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form4.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form3.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form5.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form6.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form7.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 by 태균\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form4.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form3.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form5.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form6.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form7.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form1.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form2.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form4.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form3.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form5.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form6.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Form7.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\OneDrive\문서\카카오톡 받은 파일\음원 관리 프로그램 종합2 11_20 (2)\음원 관리 프로그램 종합2 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\문서\음원 관리 프로그램 종합3 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램 종합4 11_20\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_22\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램 - 복사본 - 복사본\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\류지협\Desktop\음원 관리 프로그램_112306\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_112306_추가\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본1\음원 관리 프로그램_종합본1\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_27\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본4\음원 관리 프로그램_종합본4\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.노래수정.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\dlxor\Desktop\데베프\팀플\최종 결과물\11_30\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.노래수정.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.Up2Date
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\82104\OneDrive\바탕 화면\음원 관리 프로그램_종합본5\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe.config
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\음원 관리 프로그램.pdb
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.AssemblyReference.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매내역.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.노래수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.상세정보.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.메인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.음원업로드.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필수정.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.프로필화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.검색화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.구매화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.회원가입.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.로그인화면.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원_관리_프로그램.Properties.Resources.resources
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.GenerateResource.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.csproj.CopyComplete
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.exe
+C:\Users\rbxo0\Downloads\음원 관리 프로그램_종합본6\음원 관리 프로그램\음원 관리 프로그램\obj\Debug\음원 관리 프로그램.pdb
