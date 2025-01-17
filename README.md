@@ -1,7 +1,7 @@
 # Music-management-program
 삼육대 DBP 프로젝트
 
-<img src="docs/구현 사진/구현 사진2/메인화면.jpg"/> 
+<img src="docs/구현 사진/메인화면.jpg"/> 
 <br/>
 
 ## 프로젝트 개요
