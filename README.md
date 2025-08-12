@@ -6,7 +6,7 @@ C#과 Oracle DB를 기반으로 구축한 데스크톱 음원 관리 프로그�
 
 <div align="center">
   <!-- 이곳에 프로그램 메인 스크린샷을 넣어주세요 -->
-  <img src="docs/구현 사진/메인화면.jpg" alt="프로그램 메인 화면" width="900"/>
+  <img src="docs/구현 사진/메인화면.jpg" alt="프로그램 메인 화면" width="800"/>
 </div>
 
 <br>
@@ -57,7 +57,7 @@ C#과 Oracle DB를 기반으로 구축한 데스크톱 음원 관리 프로그�
 
 <div align="center">
   <!-- 이곳에 프로젝트 ERD(물리적 데이터 모델) 이미지를 넣어주세요 -->
-  <img src="docs/프로젝트 구현 자료(SQL, ERD)/물리 ERD.jpg" alt="ERD" width="900"/>
+  <img src="docs/프로젝트 구현 자료(SQL, ERD)/물리 ERD.jpg" alt="ERD" width="800"/>
 </div>
 
 <br>
@@ -101,4 +101,4 @@ C#과 Oracle DB를 기반으로 구축한 데스크톱 음원 관리 프로그�
 
 ---
 
-[프로젝트 상세 설계 문서 보기 (개인정보 제외 버전)](docs/DBP_오후반_2조_박규태_최종보고서_clean_ver.hwp)
+[프로젝트 상세 설계 문서 보기 (개인정보 제외 버전)](docs/DBP_오후반_2조_박규태_최종보고서_clean_ver.pdf)
